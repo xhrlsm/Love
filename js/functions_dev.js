@@ -26,7 +26,7 @@ $(function () {
         garden.render();
     }, Garden.options.growSpeed);
 });
-
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" />
 $(window).resize(function() {
     var newWidth = $(window).width();
     var newHeight = $(window).height();
